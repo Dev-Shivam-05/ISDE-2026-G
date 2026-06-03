@@ -1,4 +1,4 @@
-# ISDE MiniShop - Implementation
+# Software Devlopment Shop - Implementation
 
 ## 📌 Overview
 FastAPI-based e-commerce demo fulfilling ISDE 25/26 course requirements.  
